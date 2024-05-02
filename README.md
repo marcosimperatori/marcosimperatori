@@ -29,7 +29,7 @@ Sou fascinado no uso da tecnologia para criar soluções que resultam em melhori
 
 :arrow_right: **Sistema para controle de serviços:** novamente um sistema desktop usando a dupla Object Pascal e banco de dados Firebird 3. Este permite ao gestor da empresa controlar e acompanhar, por departamento (fiscal, pessoal e contábil), o andamento dos serviços de cada usuário. Além disso inclui uma sessão para cadastro e gerenciamento de tarefas, com lembretes na tela. Também possui uma sessão que permite cadastrar prontuários de atendimentos aos clientes, dando um controle bem preciso das particularidades que surgem no dia a dia;
 
-:arrow_right: **LandPages:** desenvolvo estas páginas sempre que algum cliente precisa divulgar algum produto ou novidade do seu negócio.
+:arrow_right: **Landing Pages:** desenvolvo estas páginas sempre que algum cliente precisa divulgar algum produto ou novidade do seu negócio.
 
 <br /> 
 
